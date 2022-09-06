@@ -2,5 +2,5 @@ import { greetUser } from '$utils/greet';
 
 window.Webflow ||= [];
 window.Webflow.push(() => {
-  console.log('oke');
+  console.log('oke ya mantap');
 });
